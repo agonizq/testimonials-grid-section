@@ -29,5 +29,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://agonizq.github.io/testimonials-grid-section)
+- Solution URL: [solution URL](https://github.com/agonizq/testimonials-grid-section)
 - Live Site URL: [live site URL](https://agonizq.github.io/testimonials-grid-section)
